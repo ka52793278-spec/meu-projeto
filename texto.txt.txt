@@ -1,4 +1,3 @@
-“Não importa o ninho, se o ovo é de águia.” Abraham Lincoln
-git init
-git add texto.txt
-git commit -m "Primeiro commit"
+“ O leão chama a atenção por sua força; a águia, pela agilidade;
+o cisne, pela elegância; o chimpanzé, pela inteligência. Os vermes e as bactérias, pela inveja.
+Marcos Ribeiro Ecce Ars
