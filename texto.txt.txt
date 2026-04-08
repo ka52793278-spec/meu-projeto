@@ -1,0 +1,4 @@
+“Não importa o ninho, se o ovo é de águia.” Abraham Lincoln
+git init
+git add texto.txt
+git commit -m "Primeiro commit"
